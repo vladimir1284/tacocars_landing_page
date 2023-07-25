@@ -1,0 +1,31 @@
+{
+    "members": [{
+            "name": "Daniel",
+            "image": "assets/img/team/team-1.jpg",
+            "whatsapp": "https://wa.link/dpvdsb",
+            "phone": "tel:+1 (832) 963-5145",
+            "position": "Fundador"
+        },
+        {
+            "name": "Ariel",
+            "image": "assets/img/team/team-2.jpg",
+            "whatsapp": "https://wa.link/at0nvf",
+            "phone": "tel:+1 (305) 833-6104",
+            "position": "Fundador"
+        },
+        {
+            "name": "Ovel",
+            "image": "assets/img/team/team-3.jpg",
+            "whatsapp": "",
+            "phone": "",
+            "position": "Responsable"
+        },
+        {
+            "name": "Dunio",
+            "image": "assets/img/team/team-4.jpg",
+            "whatsapp": "",
+            "phone": "",
+            "position": "Especialista"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "testimonials": [{
+            "name": "Rubén Martínez",
+            "position": "Chofer de Hot Shot, México",
+            "image": "assets/img/testimonials/testimonial1.jpg",
+            "body": "La atención y el servicio fueron excelentes. No tuve ningún problema con el tráiler que alquilé para mi viaje."
+        },
+        {
+            "name": "Manuel López",
+            "position": "Chofer de Hot Shot, Colombia",
+            "image": "assets/img/testimonials/testimonial2.jpg",
+            "body": "El arreglo del remolque fue rápido y eficiente. Quedé muy contento con el trabajo que hicieron."
+        },
+        {
+            "name": "Ana Fernández",
+            "position": "Chofer de Hot Shot, Venezuela",
+            "image": "assets/img/testimonials/testimonial3.jpg",
+            "body": "La asistencia en la carretera fue muy útil. Me ayudaron rápidamente y pudimos continuar nuestro viaje sin mayores problemas."
+        },
+        {
+            "name": "Luis González",
+            "position": "Chofer de Hot Shot, Cuba",
+            "image": "assets/img/testimonials/testimonial4.jpg",
+            "body": "Las piezas de repuesto originales y la mano de obra profesional hicieron que mi tráiler quede como nuevo de nuevo. Muy recomendable."
+        }
+    ]
+}

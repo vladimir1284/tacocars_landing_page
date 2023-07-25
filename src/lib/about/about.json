@@ -1,0 +1,27 @@
+{
+    "header": {
+        "title": "¿Qué nos distingue?",
+        "body": "Tenemos dos tipos de remolques para alquilar: Flatbed y Mini 5. Hacemos todo tipo de reparaciones, modificaciones y mantenimientos a remolques y camionetas. Si usted llega a Towit Houston con un problema, de seguro se va sin él."
+    },
+    "highlights": [{
+            "icon": "ClockFast",
+            "title": "Inmediatez",
+            "body": "Cuando usted llega a nosotros con algún tipo de problema eléctrico o mecánico, de inmediato los especialistas de Towit Houston le hacen un diagnóstico y una cotización. Si resulta de su conveniencia, los especialistas comienzan a trabajar de inmediato para lograr solucionarlo en el mismo día o al día siguiente."
+        },
+        {
+            "icon": "ShieldCheckOutline",
+            "title": "Soluciones robustas",
+            "body": "Soluciones sostenibles, flexibles y adaptativas ante los cambios tecnológicos que ocurren al paso del tiempo. Permiten la modificación y modernización continua y permanente del equipamiento."
+        },
+        {
+            "icon": "CheckDecagramOutline",
+            "title": "Calidad",
+            "body": "En Towit Houston siempre le ofreceremos la sustitución de las partes dañadas por partes nuevas de fabricantes confiables, probados por nuestros especialistas, que le garantizarán larga vida y funcionamiento fiable."
+        },
+        {
+            "icon": "CashCheck",
+            "title": "Precios módicos",
+            "body": "Ofrecemos la mejor cotización que usted podrá encontrar en los Estados Unidos. Nos encargamos del servicio y le ofrecemos las partes de recambio sin que tenga que salir a buscarlas en otra parte."
+        }
+    ]
+}
